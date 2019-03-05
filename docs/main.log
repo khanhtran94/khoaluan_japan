@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.1)  5 MAR 2019 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.1)  6 MAR 2019 01:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,21 +664,41 @@ Package pdftex.def Info: coverpage/image/Logo_ThangLong.png  used on input line
  [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./cover
-page/image/Logo_ThangLong.png>]) (./header/header.tex) (./main.toc)
+page/image/Logo_ThangLong.png>]) (./header/header.texpdfTeX warning (ext4): des
+tination with the same identifier (name{page.1}) has been already used, duplica
+te ignored
+<to be read again> 
+                   \relax 
+l.16 \newpage
+              [1]
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
+
+ []
+
+! Undefined control sequence.
+l.36 ...ng} là một phương pháp của \textif
+                                                  {Machine learning}. Là m�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[2]) [1] (./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1
+ [2
 
 ] (./main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [2
+ [3
 
-]
-(./kihieu/kihieu.tex) (./chap2/chap2.tex) (./chap3/chap3.tex)
-(./chap4/chap4.tex) (./chap5/chap5.tex) (./main.bbl
+] (./kihieu/kihieu.tex)
+(./chap2/chap2.tex) (./chap3/chap3.tex) (./chap4/chap4.tex) (./chap5/chap5.tex)
+(./main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -702,20 +722,21 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 9019 strings out of 492649
- 133228 string characters out of 6129623
- 231604 words of memory out of 5000000
- 12756 multiletter control sequences out of 15000+600000
- 10444 words of font info for 22 fonts, out of 8000000 for 9000
+ 9023 strings out of 492649
+ 133262 string characters out of 6129623
+ 234604 words of memory out of 5000000
+ 12757 multiletter control sequences out of 15000+600000
+ 11265 words of font info for 23 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,42p,241b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,42p,684b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/lo
 cal/texlive/2018/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb>
-Output written on main.pdf (4 pages, 70626 bytes).
+ve/2018/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/vntex/vnr/vnti12.pfb>
+Output written on main.pdf (7 pages, 98525 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
